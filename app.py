@@ -8,6 +8,7 @@ and improved readability for documentation clarity.
 # ==============================
 # IMPORTS
 # ==============================
+import sys
 import streamlit as st
 import pandas as pd
 from resume_screener import (
