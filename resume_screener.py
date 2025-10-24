@@ -4,17 +4,7 @@ Enhanced version with detailed comments, helper functions, and
 logging for debugging and traceability.
 """
 
-import os
-import re
-import logging
-from typing import List, Dict, Tuple
 
-import pandas as pd
-import numpy as np
-import fitz                     # For reading PDFs (PyMuPDF)
-import docx2txt                 # For DOCX text extraction
-import spacy                    # For Named Entity Recognition
-from sentence_transformers import SentenceTransformer, util
 
 # =====================================================
 # LOGGER CONFIGURATION
