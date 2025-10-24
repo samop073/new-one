@@ -1,9 +1,25 @@
+# Core Web App Framework
 streamlit
+
+# Data Handling
 pandas
 numpy
+
+# Natural Language Processing
 spacy
 sentence-transformers
+scikit-learn
+
+# Document Processing
 PyMuPDF
 docx2txt
+
+# Machine Learning & Embedding Support
 torch
-scikit-learn
+
+# Optional (for charts, visualization, and smooth UI)
+matplotlib
+plotly
+
+# Logging and utilities
+regex
