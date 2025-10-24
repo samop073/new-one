@@ -5,6 +5,16 @@ Enhanced version with additional comments, helper functions,
 and improved readability for documentation clarity.
 """
 
+# ==============================
+# IMPORTS
+# ==============================
+import streamlit as st
+import pandas as pd
+from resume_screener import (
+    process_multiple_resumes,
+    rank_resumes,
+    extract_skills
+)
 
 # ==============================
 # STREAMLIT PAGE CONFIGURATION
