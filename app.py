@@ -8,6 +8,8 @@ and improved readability for documentation clarity.
 # ==============================
 # IMPORTS
 # ==============================
+
+import logging
 import sys
 import streamlit as st
 import pandas as pd
